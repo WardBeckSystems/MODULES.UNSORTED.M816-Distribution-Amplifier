@@ -36,7 +36,7 @@ Wiki page: [M816](../../../../PAGES/M816.md)
 - **Title block:** (355, 24)–(432, 40) mm: Klvrioh · WBS WARO-BECK SYSTEMS · Mb16
 - **Wiring (first pass):** 70 connected wire groups from 470 runs; labelled ends: 166 mm → M3bi, Ri7, Mok, Fo8; 159 mm → LM3OI, cab, 0I48, 2R4037; 138 mm → +18V, 47/25, Ibk, 51; 137 mm → 823k, 8k8; 110 mm → RTROL
 
-Every curve, box, word and wire group: [19xx - 816-02-001 - DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. MAHONEY - ENG RKB - ISS 3 (traced).json](../SCHEMATICS/19xx%20-%20816-02-001%20-%20DISTRIBUTION%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20P.%20MAHONEY%20-%20ENG%20RKB%20-%20ISS%203%20(traced).json) (the CAD file: `19xx - 816-02-001 - DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. MAHONEY - ENG RKB - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 816-02-001 - DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. MAHONEY - ENG RKB - ISS 3 (traced).json](../SCHEMATICS/19xx%20-%20816-02-001%20-%20DISTRIBUTION%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20P.%20MAHONEY%20-%20ENG%20RKB%20-%20ISS%203%20%28traced%29.json) (the CAD file: `19xx - 816-02-001 - DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. MAHONEY - ENG RKB - ISS 3 (traced).dxf`).
 
 ## Full text
 
